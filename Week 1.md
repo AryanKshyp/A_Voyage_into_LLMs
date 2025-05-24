@@ -53,21 +53,6 @@ You can use either some or all of the resources to learn.
 >[!NOTE]
 > If you are new to **JUPYTER NOTEBOOK**, Jupyter notebooks allow you to divide your code into multiple cells that you can run individually  one-by-one, allowing you to debug your code much more easily. You can go over the first few sections of [**this introductory document**](https://realpython.com/jupyter-notebook-introduction/) or [**this video**](https://www.youtube.com/watch?v=HW29067qVWk) (only until Notebook creation and code execution). For this course, you will be using [**Google Colab**](https://colab.google/) to run your notebooks on the cloud. Ensure that you have a Gmail account to use it.
 
-### NEURAL NETWORKS (IMPORTANT)
-
-Transitioning to neural networks, prioritize understanding neural network architectures, activation functions, and optimization algorithms. Knowledge of NumPy aids seamless integration with these libraries. Mastering essentials like backpropagation and gradient descent is crucial for effective model training and optimization. This foundation facilitates exploration of advanced architectures like CNNs and RNNs(_Which we'll be using in this project_) for tasks such as image recognition and natural language processing. Going through both would be great.
-
-**RESOURCES**
-
-- [**Coursera course (Neural Networks and Deep Learning)**](https://www.coursera.org/learn/neural-networks-deep-learning?specialization=deep-learning) (Complete this course by the end of the week 1. You do not have to buy the course, you can audit the course for free. If you want the assignments and certificates, apply for financial aid and you will get access after 15 days. You can skip this if you the prior knowledge.)
-- [**3Blue1Brown** (only 4 video required for now) Playlist](https://youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&si=pGHVPQ58rTgYkYgM) (_Good Video for Visualisation_)
-- [**Neural Network from scratch** - To implement neural network without a library](https://youtu.be/w8yWXqWQYmU?si=q1BZDKBAXFo0q9y_)(_Optional_)
-
-*Advanced Resources (For additional learning purposes only, not necessary)*
-- [**The spelled-out intro to neural networks and backpropagation: building micrograd**](https://youtu.be/VMj-3S1tku0?si=37A2-d1NSIvr6alp)
-
-
-**_Expected time to complete_** : 3-4 days
 
 ### PYTORCH
 
@@ -77,7 +62,7 @@ Again, you don't have to dive deeper into this module, just falmiliarize yoursel
 
 Feel free to use tensorflow or keras if you are already comfortable with that. 
 
-**_Expected time to complete_** : 1 day
+**_Expected time to complete_** : 2-3 days
 
 **RESOURCES**
 
