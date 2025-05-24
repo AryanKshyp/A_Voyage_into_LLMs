@@ -15,14 +15,14 @@ The project will aim on covering LLMs and NLP from the basics while going into d
 
 ## Tentative Timeline
 
-Week 1: Pandas, NumPy and basics of Python
-Week 2: Text Processing and Embeddings 
-Week 3: Introduction to Neural Networks
-Week 4: RNNs, LSTMs, GRUs
-Week 5: Attention Mechanism
-Week 6: Transformers + Hugging Face
-Week 7: Fine-tuning pretrained models + RAG Model + LangChain
-Week 8: Final Project
+- Week 1: Pandas, NumPy and basics of Python
+- Week 2: Text Processing and Embeddings 
+- Week 3: Introduction to Neural Networks
+- Week 4: RNNs, LSTMs, GRUs
+- Week 5: Attention Mechanism
+- Week 6: Transformers + Hugging Face
+- Week 7: Fine-tuning pretrained models + RAG Model + LangChain
+- Week 8: Final Project
 
 
 _Feel free to contact me or discuss among yourselves about the project._
