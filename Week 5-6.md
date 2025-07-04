@@ -97,7 +97,5 @@ Watch these two courses instead of the above video for better understanding of L
 
 Go through the documentation(_Recommended_) or the video tutorial(_Simpler to understand_) of langchain and explore how can RAG be implemented using it.
 
-Now you are ready to make your own 'CHATBOT OVER PDF' ;)
-
 (Research about conversational bots if you are interested, how bots retain memory from previous prompts)
 
