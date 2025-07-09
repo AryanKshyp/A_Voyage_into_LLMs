@@ -23,7 +23,7 @@ Each project explores a different aspect of modern NLP and generative AI — fro
   Fine-tune the free, open-source GPT-2 model on a **dataset of your choice**, such as a collection of short stories, technical articles, or blog posts, to teach it to generate text in that specific style or domain.  
   The project involves end-to-end data preparation, training, and evaluation — resulting in a mini language model specialized on your dataset.
 - **Key Objectives:**  
-  - Collect or prepare a text dataset in a specific domain or style (e.g. sci-fi stories, cricket blogs, or personal academic notes)
+  - Collect or prepare a text dataset in a specific domain or style (e.g. sci-fi stories, cricket blogs, etc.)
   - Tokenize and format the dataset for causal language modeling
   - Fine-tune GPT-2 using the Hugging Face `Trainer` API
   - Generate and compare text samples before and after fine-tuning to observe how the model has adapted
